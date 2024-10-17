@@ -1,4 +1,4 @@
-# APAI23-LAB03-DNN-Shrinking-and-Quantization
+# APAI24-LAB03-DNN-Shrinking-and-Quantization
 
 **Guidelines:**
 
