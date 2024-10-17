@@ -1,4 +1,4 @@
-# APAI23-LAB02-DNN-Shrinking-and-Quantization
+# APAI23-LAB03-DNN-Shrinking-and-Quantization
 
 **Guidelines:**
 
@@ -14,5 +14,5 @@ Instructions:
 * update only the .ipynb file, named as follows: LAB2_APAI_yourname.ipynb
 
 
-## Assignment DEADLINE: 18/10/2023 (at 14:30)
+## Assignment DEADLINE: 25/10/2024 (at 14:30)
 
